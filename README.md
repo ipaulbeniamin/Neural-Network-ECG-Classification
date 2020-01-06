@@ -1,6 +1,4 @@
 ## ECG classification with Neural Networks
-##
-
 #### First machine learning project 2015
 
 This is a vanilla java implementation of a MLP.
